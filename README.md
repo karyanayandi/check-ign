@@ -44,4 +44,4 @@ const cod = await checkIgn({
 })
 ```
 
-* For Genshin Impact, Honkai Impact, Honkai Star Rail, Mobile Legends, and Punishing: Gray Raven, you need to pass the zone/server parameter.
+* For Genshin Impact, Honkai Impact 3, Honkai Star Rail, Mobile Legends, and Punishing Gray Raven, you need to pass the zone/server parameter.
