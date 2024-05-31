@@ -17,10 +17,10 @@ yarn add check-ign
 - Call of Duty Mobile
 - Free Fire
 - Genshin Impact
-- Honkai Impact
+- Honkai Impact 3
 - Honkai Star Rail
 - Mobile Legends
-- Punishing: Gray Raven
+- Punishing Gray Raven
 - Sausage Man
 - Super SUS
 - Valorant
